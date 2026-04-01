@@ -994,6 +994,8 @@ strong { color: var(--primary-light); }
     padding: 2rem;
     text-align: center;
     transition: var(--transition);
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .contact-card:hover {
